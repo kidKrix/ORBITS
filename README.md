@@ -13,3 +13,6 @@
 
 <h2>Contributions</h2>
 <p>Feel free to fork the repository and suggest improvements or new features. Contributions are welcome!</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License.</p>
